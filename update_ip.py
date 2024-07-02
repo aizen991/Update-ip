@@ -1,10 +1,10 @@
 import requests
 
 # Replace these values with your own
-API_KEY = 'your_api_key'
-API_SECRET = 'your_api_secret'
-DOMAIN = 'yourdomain.com'
-SUBDOMAIN = 'subdomain'
+API_KEY = 'fYAk4VbiynSj_9WjjWLrpWk4VmqtdYG5y3K'
+API_SECRET = 'LL7vUeTibdXrjdVfuSgQvr'
+DOMAIN = 'ciftec.com'
+SUBDOMAIN = 'embroidery'
 
 def get_public_ip():
     response = requests.get('https://api.ipify.org')
